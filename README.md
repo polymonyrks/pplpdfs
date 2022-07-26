@@ -1,0 +1,2 @@
+# pplpdfs
+pdf2htmlEXでhtml化されたpdfをPPLで読むテスト
